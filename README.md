@@ -1,7 +1,5 @@
 <h1 align="left">👋Batu Burgu</h1>
 
-###
-
 <h2 align="left">🙋‍♂️Who am I?</h2>
 
 ###
