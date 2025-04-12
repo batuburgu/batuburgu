@@ -1,6 +1,4 @@
-<h1 align="left">👋Batu Burgu</h1>
-
-<h2 align="left">🙋‍♂️Who am I?</h2>
+<h1 align="left">👋Hi! I'm Batu </h1>
 
 ###
 
