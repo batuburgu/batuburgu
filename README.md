@@ -6,7 +6,16 @@
 
 ###
 
-<p align="left">I am a 4th-year Electronics and Communications Engineering student at Istanbul Technical University with a GPA of 3.66/4, specializing in embedded systems and wireless communication technologies. <br><br>🛰 Researcher @ ITU Wireless Communications Research Laboratory<br>Currently conducting theoretical research on THz communication systems at ITU Wireless Communications Research Laboratory, focusing on high-frequency wireless technologies and their potential for ultra-fast data transmission.<br><br>💻 Embedded Software Engineer @ TÜBİTAK BİLGEM<br>Working on the implementation of L1, L2, and L3 communication protocols on embedded systems for secure and efficient wireless & wired data transmission.<br><br>⚙️ Focus Areas:<br>Embedded Systems - Wireless Communications - Signal Processing</p>
+<p align="left">
+  I am a <strong>4th-year</strong> student in the <strong>Electronics and Communications Engineering</strong> department at <strong>Istanbul Technical University</strong> with a <strong>GPA of 3.66/4</strong>, specializing in <strong>embedded systems</strong> and <strong>wireless communication technologies</strong>. <br><br>
+  🛰 Researcher @ ITU Wireless Communications Research Laboratory<br>
+  Currently conducting theoretical research on <strong>THz communication systems</strong> at ITU Wireless Communications Research Laboratory, focusing on <strong>high-frequency wireless technologies</strong> and their potential for ultra-fast data transmission.<br><br>
+  💻 Embedded Software Engineer @ TÜBİTAK BİLGEM<br>
+  Working on the implementation of <strong>L1, L2, & L3 communication protocols on embedded systems</strong> for secure and efficient wireless & wired data transmission.<br><br>
+  ⚙️ Focus Areas:<br>
+  <strong>Embedded Systems - Wireless Communications - Signal Processing</strong>
+</p>
+
 
 ###
 
@@ -67,6 +76,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">🐍Contribution Snake</h2>
 
 ###
 
