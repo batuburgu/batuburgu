@@ -11,7 +11,7 @@
   💻 Embedded Software Engineer @ TÜBİTAK BİLGEM<br>
   Working on the implementation of <strong>L1, L2, & L3 communication protocols on embedded systems</strong> for secure and efficient wireless & wired data transmission.<br><br>
   ⚙️ Focus Areas:<br>
-  <strong>Embedded Systems - Wireless Communications - Signal Processing</strong>
+  <strong>Wireless Communications - High Speed Communication Systems - Embedded Systems</strong>
 </p>
 
 
