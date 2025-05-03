@@ -56,10 +56,3 @@
 
 ###
 
-<h2 align="left">🐍Contribution Snake</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/batuburgu/batuburgu/output/github-snake-dark.svg" alt="Snake animation" />
-
-###
