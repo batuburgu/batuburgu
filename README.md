@@ -9,7 +9,7 @@
   🛰 Researcher @ ITU Wireless Communications Research Laboratory<br>
   Currently conducting theoretical research on <strong>THz communication systems</strong> at ITU Wireless Communications Research Laboratory, focusing on <strong>high-frequency wireless technologies</strong> and their potential for ultra-fast data transmission.<br><br>
   💻 Embedded Software Developer @ TÜBİTAK BİLGEM<br>
-  Working on the implementation of <strong>L1, L2, & L3 communication protocols on embedded systems</strong> for secure and efficient wireless & wired data transmission.<br><br>
+  Developing embedded software for <strong>ARM-based processors and FPGAs</strong> using mainly C, frequently utilizing communication protocols such as <strong>UART and I2C</strong> and <strong>FreeRTOS</strong>.
   ⚙️ Focus Areas:<br>
   <strong>Wireless Communications - High Speed Communication Systems - Embedded Systems</strong>
 </p>
