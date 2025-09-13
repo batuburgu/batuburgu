@@ -8,8 +8,8 @@
   a <strong>4th-year</strong> student in the <strong>Electronics and Communications Engineering</strong> department at <strong>Istanbul Technical University</strong> with a <strong>GPA of 3.68/4</strong>, specializing in <strong>embedded systems</strong> and <strong>wireless communication technologies</strong>. <br><br>
   🛰 Researcher @ ITU Wireless Communications Research Laboratory<br>
   Currently conducting theoretical research on <strong>THz communication systems</strong> at ITU Wireless Communications Research Laboratory, focusing on <strong>high-frequency wireless technologies</strong> and their potential for ultra-fast data transmission.<br><br>
-  💻 Embedded Software Developer @ TÜBİTAK BİLGEM<br>
-  Developed and optimized embedded software for <strong>ARM-based processors and FPGAs</strong> using mainly C</strong>.<br><br>
+  💻 Embedded Software Engineer @ TÜBİTAK BİLGEM<br>
+  Designed, developed, and optimized embedded software <strong>across multiple microcontroller architectures</strong> using C.<br><br>
   ⚙️ Focus Areas:<br>
   <strong>Wireless Communications - High Speed Communication Systems - Embedded Systems</strong>
 </p>
@@ -55,6 +55,7 @@
 </div>
 
 ###
+
 
 
 
